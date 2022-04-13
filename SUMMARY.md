@@ -5,7 +5,7 @@
 
 ## 🍕 How-to Guides
 
-* [Page 1](how-to-guides/page-1.md)
+* [🐶 Create NFT collection](how-to-guides/create-nft-collection.md)
 * [Using Webflow widget](how-to-guides/using-webflow-widget.md)
 
 ## Frontend Roadmap
