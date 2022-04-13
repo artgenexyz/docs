@@ -3,6 +3,11 @@
 * [⛩ Overview](README.md)
 * [🚀 Apply to Closed alpha!](apply-to-closed-alpha.md)
 
+## 🍕 How-to Guides
+
+* [Page 1](how-to-guides/page-1.md)
+* [Using Webflow widget](how-to-guides/using-webflow-widget.md)
+
 ## Frontend Roadmap
 
 * [Web3 SDK](frontend-roadmap/web3-sdk.md)
