@@ -1,8 +1,7 @@
 # Table of contents
 
-* [buildship.xyz](README.md)
-  * [⛩ Overview](buildship.xyz/overview.md)
-  * [🚀 Apply to Closed alpha!](buildship.xyz/apply-to-closed-alpha.md)
+* [⛩ Overview](README.md)
+* [🚀 Apply to Closed alpha!](apply-to-closed-alpha.md)
 
 ## Frontend Roadmap
 
