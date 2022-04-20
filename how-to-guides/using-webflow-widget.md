@@ -2,7 +2,7 @@
 description: No-code NFT lazy-mint widget from buildship.xyz
 ---
 
-# How to connect Metamask to Webflow
+# 🐧 How to connect Metamask to Webflow
 
 This widget allows minting NFTs on your website.
 
