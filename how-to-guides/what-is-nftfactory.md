@@ -11,6 +11,7 @@ description: Deploy feature-rich NFT contracts 10x cheaper to Ethereum
 You need your own contract for your NFT collection if you want:
 
 * independence of centralized NFT marketplaces like OpenSea, Rarible
+* support secondaries on all major NFT marketplaces: OpenSea, LooksRare, Rarible
 * decentralized art storage like IPFS
 * minting on your own website
 * custom primary & secondary sales splits
@@ -31,8 +32,14 @@ We've been able to reduce minting gas fees by using **ERC721** instead of **ERC7
 
 `Disclaimer for pros: most of the users don't need Enumerable specific methods. But for those who need methods like`` `**`walletOfOwner()`**`, you can use free Moralis API for fetching the same data`
 
+### Gas-free OpenSea secondary listings
+
+Before listing on sale on any marketplace, every user needs to pay a huge gas fee (**100$+**) to **approve the marketplace** to transfer the NFTs from the users' wallet in case of a successful sale.&#x20;
+
+With Buildship's **MetaverseNFT** contract, users will just list their NFTs for free on OpenSea, which might drive up your floor price & secondary sales volume.
+
 ### Feature-rich with extensions
 
-Even more, Factory architecture allows everyone to build & connect Extensions with additional functionality: batch mint, presale, mint pass, on-chain art, dutch auction, delayed claim etc.\
-\
+Even more, Factory architecture allows everyone to build & connect Extensions with additional functionality: batch mint, presale, mint pass, on-chain art, dutch auction, delayed claim etc.
+
 [See examples on GitHub here](https://github.com/buildship-dev/nft-contracts/tree/main/contracts/factory/extensions)
