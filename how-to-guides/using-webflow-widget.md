@@ -12,7 +12,7 @@ Wix, WordPress, and Squarespace are also supported. Instructions coming soon, me
 
 ### TL;DR
 
-* [ ] Open Webflow website and subscribe to the **Basic** site plan
+* [ ] Open your Webflow website and subscribe to the **Basic** site plan
 * [ ] Add a button with id = `mint-button`
 * [ ] Create an "Embedded HTML code" block in Webflow
 * [ ] Paste [code snippet](using-webflow-widget.md#how-to-use) to the block
