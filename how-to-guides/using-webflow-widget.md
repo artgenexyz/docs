@@ -54,19 +54,20 @@ Create your contract
 <link href="https://nftcomponents.vercel.app/static/css/main.css" rel="stylesheet">
 ```
 
-1. If you **have your Ethereum NFT contract**
-   * [ ] insert your contract address in `CONTRACT_ADDRESS` field
-   * [ ] set `IS_TESTNET` to `false` or `true` depending on which network is the contract on: `Ethereum Mainnet` or `Rinkeby Testnet`.
+&#x20; 4\. If you **have your Ethereum NFT contract**
+
+* [ ] insert your contract address in `CONTRACT_ADDRESS` field
+* [ ] set `IS_TESTNET` to `false` or `true` depending on which network is the contract on: `Ethereum Mainnet` or `Rinkeby Testnet`.
 
 If you **don't have a contract**, [contact us to deploy using Buildship](https://buildship.xyz)
 
 > Your contract should be [verified](https://etherscan.io/verifyContract) on [Etherscan](https://etherscan.io). Otherwise you have to add `CONTRACT_ABI = [{...}]` line in the above code, with your full contract ABI inserted. If you have an error saying your ABI is too long, [click here](https://github.com/buildship-dev/webflow-nft-components/issues/22#issuecomment-1042708174).
 
-1. Create a button with ID `mint-button` on your Webflow site
+&#x20; 5\. Create a button with ID `mint-button` on your Webflow site
 
 If you can't set an ID, you can set a button URL as `#mint-button` or `https://<your-website-url>/#mint-button`
 
-1. You're done 🎉
+&#x20; 6\. You're done 🎉
 
 #### Example for testing
 
