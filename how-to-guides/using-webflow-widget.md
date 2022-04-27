@@ -4,30 +4,34 @@ description: a.k.a how to connect Metamask to Webflow
 
 # 🐧 How to mint NFTs on Webflow without code
 
-This no-code widget allows minting NFTs on your website
+This article helps to set up a no-code widget that allows minting NFTs on your **Webflow** website.&#x20;
 
-### Outline
+{% hint style="info" %}
+Wix, WordPress, and Squarespace are also supported. Instructions coming soon, meanwhile, [ask in our Discord](https://discord.com/invite/dRg2tGqfhE)
+{% endhint %}
 
-Steps are the following:
+### TL;DR
 
-Prerequisites:
+* [ ] Open Webflow website and subscribe to the **Basic** site plan
+* [ ] Add a button with id = `mint-button`
+* [ ] Create an "Embedded HTML code" block in Webflow
+* [ ] Paste [code snippet](using-webflow-widget.md#how-to-use) to the block
+* [ ] Update code snippet with your contract address (see below)
 
-* Make sure your smart-contract has exported `price` and `mint` methods. The possible naming conventions are: `mint`, `buy` or `mintXXX`; `price` or `cost`.
-* Have your Webflow website setup and at least on "Basic" plan (required to add custom code blocks)
+You can also [clone our free Webflow minting template](https://webflow.com/website/Free-NFT-minting-website-template-from-buildshipxyz) to use it as an example
 
-Steps Overview:
+### Starting out
 
-* Add a new page to your Webflow website
-* Add a button with id = "mint-button"
-* Create "Embedded HTML code" block
-* Paste code snippet to the page
-* Update code snippet with your contract address (see below)
+* You need an Ethereum NFT smart contract. [Contact us to deploy it using Buildship](https://buildship.xyz), or test with an [example contract](https://github.com/buildship-dev/webflow-nft-components#example-for-testing).
 
-### Installation
+{% hint style="success" %}
+**MetaverseNFT** contract by [buildship.xyz](https://buildship.xyz) is used by **40+** collections with **1500ETH+** in total volume. It features **40% lower** mint gas fees, costs **\~100$ in gas to deploy**, bullet-proof security, and extensions like presale lists, mint passes, etc.
 
-To start, you need an Ethereum NFT contract. [Contact us to deploy it using Buildship](https://buildship.xyz), or test with an [example contract](https://github.com/buildship-dev/webflow-nft-components#example-for-testing).
+Create your contract
+{% endhint %}
 
-**MetaverseNFT** contract by [buildship.xyz](https://buildship.xyz) is used by **40+** collections with **1500ETH+** in total volume. It features **40% lower** mint gas fees, costs **\~100$ in gas to deploy**, bullet-proof security and extensions like presale lists, mint passes, etc.
+* Make sure your contract has `price` and `mint` functions. The possible namings are: `mint`, `buy` or `mintXXX`; `price` or `cost`.
+* Your Webflow website is at least on a **Basic** site plan (required to add custom code blocks)
 
 ### How to use?
 
@@ -46,11 +50,9 @@ To start, you need an Ethereum NFT contract. [Contact us to deploy it using Buil
 <link href="https://nftcomponents.vercel.app/static/css/main.css" rel="stylesheet">
 ```
 
-1.  If you **have your Ethereum NFT contract**
-
-    ✅ insert your contract address in `CONTRACT_ADDRESS` field
-
-    ✅ set `IS_TESTNET` to `false` or `true` depending on which network is the contract on: `Ethereum Mainnet` or `Rinkeby Testnet`.
+1. If you **have your Ethereum NFT contract**
+   * [ ] insert your contract address in `CONTRACT_ADDRESS` field
+   * [ ] set `IS_TESTNET` to `false` or `true` depending on which network is the contract on: `Ethereum Mainnet` or `Rinkeby Testnet`.
 
 If you **don't have a contract**, [contact us to deploy using Buildship](https://buildship.xyz)
 
@@ -137,6 +139,3 @@ You need to set `DEFAULTS.hideCounter` to `true`
 <link ...>
 ```
 
-If that instruction didn't work, check out our ready-to-use minting website template: [https://textapes.art](https://textapes.art)
-
-[Contact us](https://buildship.xyz) to get this Webflow template, or to get help with this widget
