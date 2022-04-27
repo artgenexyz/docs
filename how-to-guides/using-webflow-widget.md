@@ -22,7 +22,7 @@ You can also [clone our free Webflow minting template](https://webflow.com/websi
 
 ### Starting out
 
-* You need an Ethereum NFT smart contract. [Contact us to deploy it using Buildship](https://buildship.xyz), or test with an [example contract](https://github.com/buildship-dev/webflow-nft-components#example-for-testing).
+* You need an Ethereum NFT smart contract.  [Create it using Buildship](https://app.buildship.xyz), or test with an [example contract](https://github.com/buildship-dev/webflow-nft-components#example-for-testing).
 
 {% hint style="success" %}
 **MetaverseNFT** contract by [buildship.xyz](https://buildship.xyz) is used by **40+** collections with **1500ETH+** in total volume. It features **40% lower** mint gas fees, costs **\~100$ in gas to deploy**, bullet-proof security, and extensions like presale lists, mint passes, etc.
