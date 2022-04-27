@@ -10,6 +10,10 @@ This article helps to set up a no-code widget that allows minting NFTs on your *
 Wix, WordPress, and Squarespace are also supported. Instructions coming soon, meanwhile, [ask in our Discord](https://discord.com/invite/dRg2tGqfhE)
 {% endhint %}
 
+{% embed url="https://www.youtube.com/watch?v=4MMylTzzwAg" %}
+Video guide on using Buildship mint button
+{% endembed %}
+
 ### TL;DR
 
 * [ ] Open your Webflow website and subscribe to the **Basic** site plan
