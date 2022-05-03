@@ -26,4 +26,4 @@
 
 ## 🚜 Solidity Roadmap
 
-* [MetaverseNFTFactory v3 Roadmap](solidity-roadmap/metaversenftfactory-v3-roadmap.md)
+* [Metaverse NFT Factory v3](solidity-roadmap/metaverse-nft-factory-v3.md)

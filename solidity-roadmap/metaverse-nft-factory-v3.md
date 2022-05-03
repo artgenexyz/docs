@@ -1,4 +1,4 @@
-# MetaverseNFTFactory v3 Roadmap
+# Metaverse NFT Factory v3
 
 v3 version for Factory should be the state-of-the-art optimized smart-contract, also featuring long-requested updates as:
 
