@@ -1,6 +1,12 @@
-# 🟥 We DON'T Launch:
+---
+description: buildship.xyz is very strict on quality of collections launched.
+---
 
-We DON'T launch collections that:
+# 🟥 Who We Don't Launch
+
+_While our app is open for everyone, you can move to mainnet only after obtaining Early Bird NFT._
+
+We **don't** launch collections that:
 
 * have no doxxed team
 * have a roadmap without guarantees and specific promises
