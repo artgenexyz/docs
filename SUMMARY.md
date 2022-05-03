@@ -11,7 +11,7 @@
 
 ## Technical Docs
 
-* [🟥 Who We Don't Launch](technical-docs/who-we-dont-launch.md)
+* [🟥 Who We Don't Launch](technical-docs/we-dont-launch.md)
 * [💚 Community Guidelines](technical-docs/community-guidelines.md)
 * [Start public sale on MetaverseNFT](technical-docs/start-public-sale-on-metaversenft.md)
 * [How to call contract methods via Etherscan?](technical-docs/how-to-call-contract-methods-via-etherscan.md)
