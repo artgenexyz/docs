@@ -1,4 +1,4 @@
-# Community Guidelines
+# 💚 Community Guidelines
 
 ## Community Protection Guidelines
 
@@ -32,17 +32,17 @@ There were plenty of cases when the community organized itself and resurrected t
 
 NFT collections are the perfect ways to:
 
-✅  make a collectible art or joke with no promises
+✅ make a collectible art or joke with no promises
 
-✅  add monetizable ownership of objects to your game
+✅ add monetizable ownership of objects to your game
 
-✅  raise money from your community to build something, e.g. a game
+✅ raise money from your community to build something, e.g. a game
 
-✅  create an exclusive pass for members
+✅ create an exclusive pass for members
 
-✅  create a DAO for existing community
+✅ create a DAO for existing community
 
-✅  unite people around a new character universe
+✅ unite people around a new character universe
 
 Don’t use them just to make a lot of money on fake promises.
 

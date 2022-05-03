@@ -18,8 +18,12 @@
 * [How to withdraw the funds via Etherscan?](technical-docs/how-to-withdraw-the-funds-via-etherscan.md)
 * [How to use IPFS Desktop](technical-docs/how-to-use-ipfs-desktop.md)
 
-## Frontend Roadmap
+## 💻 Frontend Roadmap
 
 * [Web3 SDK](frontend-roadmap/web3-sdk.md)
 * [Mint button on Webflow](frontend-roadmap/mint-button-on-webflow.md)
 * [app.buildship.xyz](frontend-roadmap/app.buildship.xyz.md)
+
+## 🚜 Solidity Roadmap
+
+* [MetaverseNFTFactory v3 Roadmap](solidity-roadmap/metaversenftfactory-v3-roadmap.md)
