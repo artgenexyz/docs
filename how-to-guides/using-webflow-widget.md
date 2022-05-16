@@ -30,8 +30,6 @@ You can also [clone our free Webflow minting template](https://webflow.com/websi
 
 {% hint style="success" %}
 **MetaverseNFT** contract by [buildship.xyz](https://buildship.xyz) is used by **40+** collections with **1500ETH+** in total volume. It features **40% lower** mint gas fees, costs **\~100$ in gas to deploy**, bullet-proof security, and extensions like presale lists, mint passes, etc.
-
-Create your contract
 {% endhint %}
 
 * Make sure your contract has `price` and `mint` functions. The possible namings are: `mint`, `buy` or `mintXXX`; `price` or `cost`.
