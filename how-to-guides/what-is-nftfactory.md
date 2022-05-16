@@ -6,6 +6,10 @@ description: Deploy feature-rich NFT contracts 10x cheaper to Ethereum
 
 **MetaverseNFTFactory** is an amazing tool by [buildship.xyz](https://buildship.xyz) that allows you to deploy your NFT contract to Ethereum 10x cheaper.
 
+{% hint style="info" %}
+Create your NFT drop contract without code on [app.buildship.xyz](https://app.buildship.xyz) (using MetaverseNFTFactory)
+{% endhint %}
+
 ### True ownership with your own contract
 
 You need your own contract for your NFT collection if you want:
