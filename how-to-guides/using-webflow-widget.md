@@ -22,17 +22,17 @@ Video guide on using Buildship mint button
 * [ ] Paste [code snippet](using-webflow-widget.md#how-to-use) to the block
 * [ ] Update code snippet with your contract address (see below)
 
-You can also [clone our free Webflow minting template](https://webflow.com/website/Free-NFT-minting-website-template-from-buildshipxyz) to use it as an example
+You can also [clone one of our free Webflow minting templates](https://webflow.com/theshadeth) and use as an example
 
 ### Starting out
 
-* You need an Ethereum NFT smart contract.  [Create it using Buildship](https://app.buildship.xyz), or test with an [example contract](https://github.com/buildship-dev/webflow-nft-components#example-for-testing).
+* You need an Ethereum NFT smart contract. [Create it using Buildship](https://app.buildship.xyz), or test with an [example contract](https://github.com/buildship-dev/webflow-nft-components#example-for-testing).
 
 {% hint style="success" %}
 **MetaverseNFT** contract by [buildship.xyz](https://buildship.xyz) is used by **40+** collections with **1500ETH+** in total volume. It features **40% lower** mint gas fees, costs **\~100$ in gas to deploy**, bullet-proof security, and extensions like presale lists, mint passes, etc.
 {% endhint %}
 
-* Make sure your contract has `price` and `mint` functions. The possible namings are: `mint`, `buy` or `mintXXX`; `price` or `cost`.
+* Make sure your contract has `price` and `mint` constants. The possible namings are: `mint`, `buy` or `mintXXX`; `price` or `cost`.
 * Your Webflow website is at least on a **Basic** site plan (required to add custom code blocks)
 
 ### How to use?
@@ -57,7 +57,7 @@ You can also [clone our free Webflow minting template](https://webflow.com/websi
 * [ ] insert your contract address in `CONTRACT_ADDRESS` field
 * [ ] set `IS_TESTNET` to `false` or `true` depending on which network is the contract on: `Ethereum Mainnet` or `Rinkeby Testnet`.
 
-If you **don't have a contract**, [contact us to deploy using Buildship](https://buildship.xyz)
+If you **don't have a contract**, [create it using Buildship](https://app.buildship.xyz) without coding skills
 
 > Your contract should be [verified](https://etherscan.io/verifyContract) on [Etherscan](https://etherscan.io). Otherwise you have to add `CONTRACT_ABI = [{...}]` line in the above code, with your full contract ABI inserted. If you have an error saying your ABI is too long, [click here](https://github.com/buildship-dev/webflow-nft-components/issues/22#issuecomment-1042708174).
 
