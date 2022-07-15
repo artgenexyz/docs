@@ -1,7 +1,7 @@
 # Table of contents
 
 * [⛩ Overview](README.md)
-* [🚀 Apply for early access](apply-to-closed-alpha.md)
+* [🚀 Apply for unlimited fundraise](apply-to-closed-alpha.md)
 
 ## 🍕 How-to Guides
 
