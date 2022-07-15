@@ -32,7 +32,7 @@ Webflow, WordPress, and Squarespace are also supported. [Click to read Webflow g
 ### How to use?
 
 1. Open Wix website editor
-2. Go to your Wix Dashboard by clicking on Wix logo. Then open Settings -> Advanced -> Custom code, and select "**+Add custom code**"
+2. Go to your Wix Dashboard by clicking on Wix logo. Then open Settings -> Advanced -> Custom code, and click on "**+ Add custom code**" button
 
 ![Dashboard Settings -> Advanced -> Custom code](<../.gitbook/assets/image (2).png>)
 
