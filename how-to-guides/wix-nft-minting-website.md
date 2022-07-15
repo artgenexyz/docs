@@ -14,8 +14,8 @@ Webflow, WordPress, and Squarespace are also supported. [Click to read Webflow g
 
 * [ ] Create/open your Wix website
 * [ ] Go to Settings -> Advanced -> Custom code, click "**+Add custom code**" (at least "Connect Domain" Wix subscription required)
-* [ ] Paste Buildship [code snippet](using-webflow-widget-1.md#how-to-use) to the block, under "Place Code in" **** select **"Body - end"**&#x20;
-* [ ] Update code snippet with your contract address [(see below)](using-webflow-widget-1.md#how-to-use)
+* [ ] Paste Buildship [code snippet](wix-nft-minting-website.md#how-to-use) to the block, under "Place Code in" **** select **"Body - end"**&#x20;
+* [ ] Update code snippet with your contract address [(see below)](wix-nft-minting-website.md#how-to-use)
 * [ ] Add a button with URL: `https://your-minting-website.xyz/#mint-button`
 
 ### Starting out
