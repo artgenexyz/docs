@@ -7,7 +7,7 @@ description: a.k.a how to connect Metamask to Webflow
 This article helps to set up a no-code widget that allows minting NFTs on your **Webflow** website.&#x20;
 
 {% hint style="info" %}
-Wix, WordPress, and Squarespace are also supported. Instructions coming soon, meanwhile, [ask in our Discord](https://discord.com/invite/dRg2tGqfhE)
+Wix, WordPress, and Squarespace are also supported. [Click to read Wix guide.](wix-nft-minting-website.md) Instructions for others coming soon, meanwhile, [ask in our Discord](https://discord.com/invite/dRg2tGqfhE)
 {% endhint %}
 
 {% embed url="https://www.youtube.com/watch?v=4MMylTzzwAg" %}
@@ -29,7 +29,7 @@ You can also [clone one of our free Webflow minting templates](https://webflow.c
 * You need an Ethereum NFT smart contract. [Create it using Buildship](https://app.buildship.xyz), or test with an [example contract](https://github.com/buildship-dev/webflow-nft-components#example-for-testing).
 
 {% hint style="success" %}
-**MetaverseNFT** contract by [buildship.xyz](https://buildship.xyz) is used by **40+** collections with **1500ETH+** in total volume. It features **40% lower** mint gas fees, costs **\~100$ in gas to deploy**, bullet-proof security, and extensions like presale lists, mint passes, etc.
+**MetaverseNFT** contract by [buildship.xyz](https://buildship.xyz) is used by **100+** collections with **1500ETH+** in total volume. It uses ERC721A, and has **40-100% lower** minting gas fees, costs **\~10-20$ in gas to deploy**, bullet-proof security, and extensions like allowlists, funds/royalty splits, mint passes, etc.
 {% endhint %}
 
 * Make sure your contract has `price` and `mint` constants. The possible namings are: `mint`, `buy` or `mintXXX`; `price` or `cost`.
