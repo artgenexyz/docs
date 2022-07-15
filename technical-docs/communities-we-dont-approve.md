@@ -1,12 +1,12 @@
 ---
-description: buildship.xyz is very strict on quality of collections launched.
+description: buildship.xyz is very strict on quality of approved communities.
 ---
 
-# 🟥 Who We Don't Launch
+# 🟥 Communities We Don't Approve
 
-_While our app is open for everyone, you can move to mainnet only after obtaining Early Bird NFT._
+_While our app is open for every community, you can raise more than 100 ETH only if you have an Early Access Pass NFT._
 
-We **don't** launch collections that:
+We **don't** launch communities that:
 
 * have no doxxed team
 * have a roadmap without guarantees and specific promises
