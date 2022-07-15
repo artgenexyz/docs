@@ -1,5 +1,5 @@
 ---
-description: a.k.a how to connect Metamask to Wix
+description: a.k.a how to mint NFTs on Wix or how to connect Metamask to Wix
 ---
 
 # 🪄 How to build an NFT minting website on Wix without code

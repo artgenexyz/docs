@@ -1,8 +1,8 @@
 ---
-description: a.k.a how to connect Metamask to Webflow
+description: a.k.a how to mint NFTs on Webflow or how to connect Metamask to Webflow
 ---
 
-# 🐧 How to mint NFTs on Webflow without code
+# 🐧 How to build an NFT minting website on Webflow without code
 
 This article helps to set up a no-code widget that allows minting NFTs on your **Webflow** website.&#x20;
 
