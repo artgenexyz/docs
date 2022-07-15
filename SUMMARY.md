@@ -5,7 +5,7 @@
 
 ## 🍕 How-to Guides
 
-* [🐶 Create an NFT drop without code](how-to-guides/create-nft-collection.md)
+* [🐶 How to create an ERC721A contract without code](how-to-guides/create-nft-collection.md)
 * [🐧 How to mint NFTs on Webflow without code](how-to-guides/using-webflow-widget.md)
 * [🪄 How to build an NFT minting website on Wix without code](how-to-guides/wix-nft-minting-website.md)
 * [🏭 What is NFTFactory?](how-to-guides/what-is-nftfactory.md)
