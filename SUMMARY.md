@@ -7,6 +7,7 @@
 
 * [🐶 Create an NFT drop without code](how-to-guides/create-nft-collection.md)
 * [🐧 How to mint NFTs on Webflow without code](how-to-guides/using-webflow-widget.md)
+* [🪄 How to build an NFT minting website on Wix without code](how-to-guides/using-webflow-widget-1.md)
 * [🏭 What is NFTFactory?](how-to-guides/what-is-nftfactory.md)
 
 ## Technical Docs
