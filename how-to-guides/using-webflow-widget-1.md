@@ -7,7 +7,7 @@ description: a.k.a how to connect Metamask to Wix
 This article helps to set up a no-code widget that allows minting NFTs on your **Wix** website.&#x20;
 
 {% hint style="info" %}
-Webflow, WordPress, and Squarespace are also supported. [Click to read Webflow guide](using-webflow-widget.md). For others, instructions coming soon, meanwhile, [ask in our Discord](https://discord.com/invite/dRg2tGqfhE)
+Webflow, WordPress, and Squarespace are also supported. [Click to read Webflow guide](using-webflow-widget.md). For others, instructions are coming soon, meanwhile, [ask in our Discord](https://discord.com/invite/dRg2tGqfhE)
 {% endhint %}
 
 ### TL;DR
