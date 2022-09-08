@@ -12,7 +12,7 @@ While costing 10x less in gas fees, Buildship will help you test & create your c
 Buildship app video tutorial
 {% endembed %}
 
-If you're raising less than **100 ETH (currently \~100,000$),** you can launch straight away. If you want to raise more, you need to [apply for early access](../apply-to-closed-alpha.md) to get your **Early Access NFT.**
+If you're raising less than **500 ETH (currently \~800,000$),** you can launch straight away. If you want to raise more, you need to [apply for early access](../apply-to-closed-alpha.md) to get your **Early Access NFT.**
 
 ### Pricing
 
