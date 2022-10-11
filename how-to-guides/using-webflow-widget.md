@@ -29,7 +29,7 @@ You can also [clone one of our free Webflow minting templates](https://webflow.c
 * You need an Ethereum NFT smart contract. [Create it using Buildship](https://app.buildship.xyz), or test with an [example contract](https://github.com/buildship-dev/webflow-nft-components#example-for-testing).
 
 {% hint style="success" %}
-**MetaverseNFT** contract by [buildship.xyz](https://buildship.xyz) is used by **100+** collections with **1500ETH+** in total volume. It uses ERC721A, and has **40-100% lower** minting gas fees, costs **\~10-20$ in gas to deploy**, bullet-proof security, and extensions like allowlists, funds/royalty splits, mint passes, etc.
+**ERC721Community** contract by [buildship.xyz](https://buildship.xyz) is used by **280+** collections with **1500ETH+** in total volume. It uses ERC721A, and has **40-100% lower** minting gas fees, costs **\~10-20$ in gas to deploy**, bullet-proof security, and extensions like allowlists, funds/royalty splits, mint passes, etc.
 {% endhint %}
 
 * Make sure your contract has `price` and `mint` constants. The possible namings are: `mint`, `buy` or `mintXXX`; `price` or `cost`.
@@ -43,9 +43,8 @@ You can also [clone one of our free Webflow minting templates](https://webflow.c
 
 ```html
 <script>
-   CONTRACT_ADDRESS = "<your contract address here>"
+   CONTRACT_ADDRESS = "YOUR CONTRACT ADDRESS HERE"
    IS_TESTNET = false
-   MAX_PER_MINT = 20
    // place to put CONTRACT_ABI = [{...}]
 </script>
 <script src="https://nftcomponents.vercel.app/static/js/main.js"></script>
@@ -55,7 +54,7 @@ You can also [clone one of our free Webflow minting templates](https://webflow.c
 &#x20; 4\. If you **have your Ethereum NFT contract**
 
 * [ ] insert your contract address in `CONTRACT_ADDRESS` field
-* [ ] set `IS_TESTNET` to `false` or `true` depending on which network is the contract on: `Ethereum Mainnet` or `Rinkeby Testnet`.
+* [ ] set `IS_TESTNET` to `false` or `true` depending on which network is the contract on: `Ethereum Mainnet` or `Goerli Testnet`.
 
 If you **don't have a contract**, [create it using Buildship](https://app.buildship.xyz) without coding skills
 
@@ -71,9 +70,8 @@ If you can't set an ID, you can set a button URL as `#mint-button` or `https://<
 
 ```html
 <script>
-   CONTRACT_ADDRESS = "0x8Fac2e25DFF0B248A19A66Ae8D530613c8Ff670B"
+   CONTRACT_ADDRESS = "0xb1db0dbad7a14370872a7e5327c8ad7c9951a661"
    IS_TESTNET = true
-   MAX_PER_MINT = 20
 </script>
 <script src="https://nftcomponents.vercel.app/static/js/main.js"></script>
 <link href="https://nftcomponents.vercel.app/static/css/main.css" rel="stylesheet">
@@ -104,7 +102,7 @@ It's easy! Set `NETWORK_ID` instead of `IS_TESTNET` in the code snippet
 
 ```html
 <script>
-   CONTRACT_ADDRESS = "<your contract address here>"
+   CONTRACT_ADDRESS = "YOUR CONTRACT ADDRESS HERE"
    NETWORK_ID = 1
    // remove IS_TESTNET line
    ...
@@ -131,7 +129,7 @@ You need to set `DEFAULTS.hideCounter` to `true`
 
 ```html
 <script>
-   CONTRACT_ADDRESS = "<your contract address here>"
+   CONTRACT_ADDRESS = "YOUR CONTRACT ADDRESS HERE"
    NETWORK_ID = 1
    DEFAULTS = {
        hideCounter: true
