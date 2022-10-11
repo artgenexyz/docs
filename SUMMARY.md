@@ -16,7 +16,6 @@
 * [💚 Community Guidelines](technical-docs/community-guidelines.md)
 * [How to refresh NFT metadata on OpenSea?](technical-docs/how-to-refresh-nft-metadata-on-opensea.md)
 * [How to call contract methods via Etherscan?](technical-docs/how-to-call-contract-methods-via-etherscan.md)
-* [How to withdraw the funds via Etherscan?](technical-docs/how-to-withdraw-the-funds-via-etherscan.md)
 * [How to use IPFS Desktop](technical-docs/how-to-use-ipfs-desktop.md)
 
 ## 💻 Frontend Roadmap
