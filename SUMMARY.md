@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🚀 Buildship.xyz](README.md)
+* [🚀 About buildship.xyz](README.md)
 * [✅ Apply for unlimited fundraise](apply-to-closed-alpha.md)
 
 ## 🍕 How-to Guides
