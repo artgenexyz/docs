@@ -4,7 +4,7 @@ description: buildship.xyz is very strict on quality of approved communities.
 
 # 🟥 Communities We Don't Approve
 
-_While our app is open for every community, you can raise more than 100 ETH only if you have an Early Access Pass NFT._
+_While our app is open for every community, you can raise more than 500 ETH only if you have an Early Access Pass NFT._
 
 We **don't** launch communities that:
 
